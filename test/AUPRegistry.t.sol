@@ -1,0 +1,1 @@
+feat: add AUP agent registry
