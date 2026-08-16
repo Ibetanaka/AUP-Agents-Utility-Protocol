@@ -1,0 +1,1 @@
+test: add AUP registry tests
